@@ -29,8 +29,8 @@ Before starting the project, ensure you have Docker and Docker Compose installed
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/mateusdotjs/caching-redis
+   cd caching-redis
    ```
 
 2. **Start the containers with Docker Compose**
@@ -47,6 +47,6 @@ Once Docker Compose has started the containers, the application will be availabl
 
 When you're done working with the project, you can stop and remove the containers with:
 
-```bash
-docker-compose down
-```
+   ```bash
+   docker-compose down
+   ```
