@@ -6,6 +6,8 @@ This project demonstrates how to implement caching using Redis in a NestJS appli
 
 In addition to Redis, this project includes a basic API built with NestJS and uses PostgreSQL as the primary database. The infrastructure is managed with Docker and Docker Compose, which simplifies dependency and environment management.
 
+The project also features a seeder that populates the database with 20 sample records upon initialization, using Faker to generate realistic product data.
+
 ## Technologies
 
 - **NestJS**: A framework for Node.js that helps build scalable and efficient applications.
