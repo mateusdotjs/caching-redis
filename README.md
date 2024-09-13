@@ -1,4 +1,4 @@
-# Caching with Redis and NestJS
+# Caching with Redis and NestJS 🚀
 
 ## Description
 
